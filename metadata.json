@@ -1,0 +1,6 @@
+{
+  "name": "EvaShop AI Affiliate Content Studio",
+  "description": "Studio analisis tren produk viral TikTok hari ini di Indonesia, FYP velocity score, sound audio trending, hook video 3 detik, dan script TikTok Shop bertenaga AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
